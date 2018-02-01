@@ -7,7 +7,8 @@
         "marker-color": "#f63ef4",
         "marker-size": "large",
         "marker-symbol": "ice-cream",
-        "title": "Berghain"
+        "title": "Berghain",
+        "original location?" : "idk"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "marker-color": "#f63ef4",
         "marker-size": "large",
         "marker-symbol": "ice-cream",
-        "title": "Suicide Circus"
+        "title": "Suicide Circus",
+        "original location?" : "idk"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
         "marker-color": "#f63ef4",
         "marker-size": "large",
         "marker-symbol": "ice-cream",
-        "title": "Watergate"
+        "title": "Watergate",
+        "original location?" : "idk"
       },
       "geometry": {
         "type": "Point",

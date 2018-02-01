@@ -4,10 +4,12 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Berghain",
+        "series" : "Spring 2018",
+        "tour" : "1970",
         "marker-color": "#f63ef4",
         "marker-size": "large",
         "marker-symbol": "ice-cream",
-        "title": "Berghain",
         "original location?": "idk"
       },
       "geometry": {
@@ -21,10 +23,12 @@
     {
       "type": "Feature",
       "properties": {
+        "title":"Suicide Circus",
+        "series" : "Spring 2018",
+        "tour" : "1970",
         "marker-color": "#f63ef4",
         "marker-size": "large",
         "marker-symbol": "ice-cream",
-        "title": "Suicide Circus",
         "original location?": "idk"
       },
       "geometry": {
@@ -38,10 +42,12 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Watergate",
+        "series" : "Spring 2018",
+        "tour" : "1970",
         "marker-color": "#f63ef4",
         "marker-size": "large",
         "marker-symbol": "ice-cream",
-        "title": "Watergate",
         "original location?": "idk"
       },
       "geometry": {

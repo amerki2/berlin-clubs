@@ -1,0 +1,61 @@
+{
+"type" : "FeatureCollection",
+"features": [
+{
+  "type": "Club",
+  "properties": {
+    "title": "Tresor",
+    "series": "Berlin Clubs",
+    "year": "2007",
+    "Original Location?": "no",
+    "marker-size": "medium",
+    "marker-color": "#FFFF00",
+    "marker-symbol": "Point"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.42010300000004,
+    52.5108483
+  ]
+  }
+},
+{
+  "type": "Club",
+  "properties": {
+    "title": "Tresor",
+    "series": "Berlin Clubs",
+    "year": "1991",
+    "Original Location?": "yes",
+    "marker-size": "medium",
+    "marker-color": "#FFFF00",
+    "marker-symbol": "Point"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      13.419761900000026,
+    52.5106031
+]
+}
+},
+{
+"type": "Club",
+"properties": {
+  "title": "Kater Blau",
+  "series": "Berlin Clubs",
+  "year": "2014",
+  "Original Location?": "yes",
+  "marker-size": "medium",
+  "marker-color": "#FFFF00",
+  "marker-symbol": "Point"
+},
+"geometry": {
+  "type": "Point",
+  "coordinates": [
+    13.425881600000025,
+  52.5117851]
+}
+}
+]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f63ef4",
+        "marker-size": "large",
+        "marker-symbol": "ice-cream",
+        "title": "Berghain",
+        "original location?" : "idk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442951,
+          52.512064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f63ef4",
+        "marker-size": "large",
+        "marker-symbol": "ice-cream",
+        "title": "Suicide Circus",
+        "original location?" : "idk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451003,
+          52.508238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f63ef4",
+        "marker-size": "large",
+        "marker-symbol": "ice-cream",
+        "title": "Watergate",
+        "original location?" : "idk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445183,
+          52.501694
+        ]
+      }
+    }
+  ]
+}

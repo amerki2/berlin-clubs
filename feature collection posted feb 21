@@ -1,0 +1,350 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sisyphos ",
+        "Haltestelle": "Betriebsbahnhof Rummelsburg",
+        "SUBahn": "S3",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.491243,
+          52.492961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Begine",
+        "Haltestelle": "Bülowstr.",
+        "SUBahn": "U2",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362011,
+          52.496812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bebel Bar",
+        "Haltestelle": "Hausvogteiplatz",
+        "SUBahn": "U2",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394277,
+          52.515818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "KitKat",
+        "Haltestelle": "Heinrich-Heine-Str.",
+        "SUBahn": "U8",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416991,
+          52.51126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cafe M",
+        "Haltestelle": "Kleistpark",
+        "SUBahn": "U7",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353612,
+          52.494291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paloma Bar",
+        "Haltestelle": "Kottbusser Tor",
+        "SUBahn": "U1",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.418985,
+          52.499322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "BohnenGold",
+        "Haltestelle": "Kottbusser Tor",
+        "SUBahn": "U1",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424182,
+          52.497585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bellini Lounge",
+        "Haltestelle": "Oranienburger Str.",
+        "SUBahn": "S1",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "closed",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390595,
+          52.525752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Creme de la Creme",
+        "Haltestelle": "Oranienburger Tor ",
+        "SUBahn": "U6",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "closed",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387691,
+          52.52584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Klunkerkranich",
+        "Haltestelle": "Rathaus Neukölln",
+        "SUBahn": "U7",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.431879,
+          52.482316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lido",
+        "Haltestelle": "Schlesisches Tor",
+        "SUBahn": "U1",
+        "Genre": "Indie/Alternative/Rock",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#41ebf4",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445028,
+          52.499225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Club der Visionaere",
+        "Haltestelle": "Schlesisches Tor",
+        "SUBahn": "U1",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.450458,
+          52.496792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cheshire Cat",
+        "Haltestelle": "Spichernstr.",
+        "SUBahn": "U9",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.331144,
+          52.500944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Coco et Lui",
+        "Haltestelle": "Tiergarten",
+        "SUBahn": "S5/S7/S75",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.337463,
+          52.515799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Magnet Club",
+        "Haltestelle": "Warschauer Str.",
+        "SUBahn": "U1/S5/S7/S75",
+        "Genre": "Indie/Alternative/Rock",
+        "Open/Closed": "open",
+        "original location": "closed",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#41ebf4",
+        "marker-size": "medium",
+        "marker symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444817,
+          52.50083
+        ]
+      }
+    }
+  ]
+}

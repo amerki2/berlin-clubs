@@ -4,110 +4,390 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f63ef4",
-        "marker-size": "large",
-        "marker-symbol": "ice-cream",
-        "title": "Berghain",
-        "original location?": "idk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.442951,
-          52.512064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#f63ef4",
-        "marker-size": "large",
-        "marker-symbol": "ice-cream",
-        "title": "Suicide Circus",
-        "original location?": "idk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.451003,
-          52.508238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#f63ef4",
-        "marker-size": "large",
-        "marker-symbol": "ice-cream",
-        "title": "Watergate",
-        "original location?": "idk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.445183,
-          52.501694
-        ]
-      }
-    },
-    {
-      "type": "Club",
-      "properties": {
-        "title": "Tresor",
-        "series": "Berlin Clubs",
-        "year": "2007",
-        "Original Location?": "no",
+        "title": "Adagio",
+        "Haltestelle": "Potsdamer Platz",
+        "SUBahn": "U2/S1/S2",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "closed",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
         "marker-size": "medium",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "Point"
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://i.pinimg.com/originals/0c/0c/67/0c0c671a393b3be279a7e601d0f1df5e.jpg","description":""}]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.42010300000004,
-          52.5108483
+          13.372018,
+          52.507526
         ]
       }
     },
     {
-      "type": "Club",
-      "properties": {
-        "title": "Tresor",
-        "series": "Berlin Clubs",
-        "year": "1991",
-        "Original Location?": "yes",
+    "type": "Feature",
+    "properties": {
+        "title": "Phono CLub",
+        "Haltestelle": "Schönhauser Allee",
+        "SUBahn": "S41/S42",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
         "marker-size": "medium",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "Point"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.419761900000026,
-          52.5106031
+        "marker-symbol": "ice-cream",
+        "images": [
+            {
+                "format": "Image",
+                "url": "http://www.phonoclub-berlin.de/wp-content/uploads/2015/08/club-1-_Snapseed.png",
+                "description": ""
+            }
         ]
-      }
     },
-    {
-      "type": "Club",
-      "properties": {
-        "title": "Kater Blau",
-        "series": "Berlin Clubs",
-        "year": "2014",
-        "Original Location?": "yes",
-        "marker-size": "medium",
-        "marker-color": "#FFFF00",
-        "marker-symbol": "Point"
-      },
-      "geometry": {
+    "geometry": {
         "type": "Point",
         "coordinates": [
-          13.425881600000025,
-          52.5117851
+            13.4168,
+            52.525339
         ]
-      }
     }
+},
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bi Nuu",
+        "Haltestelle": "Schlesisches Tor",
+        "SUBahn": "U1",
+        "Genre": "Indie/Alternative/Rock",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#41ebf4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://lh5.googleusercontent.com/p/AF1QipPatOEQkRayMJNDb_L2uh0AelrTt4R0khy-XYwu=w416-h336-p-k-no","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441273,
+          52.500719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grüner Salon",
+        "Haltestelle": "Rosa-Luxemburg-Platz",
+        "SUBahn": "U2",
+        "Genre": "Indie/Alternative/Rock",
+        "Open/Closed": "open",
+        "original location": "closed",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#41ebf4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://lh5.googleusercontent.com/p/AF1QipPatOEQkRayMJNDb_L2uh0AelrTt4R0khy-XYwu=w416-h336-p-k-no","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413271,
+          52.52668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Traffic Club Berlin",
+        "Haltestelle": "Alexanderplatz",
+        "SUBahn": "U2/U5/U8",
+        "Genre": "Indie/Alternative/Rock",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#41ebf4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://d1ycupff8wyhx9.cloudfront.net/r/p/542d807f00d94acd8c6c173310c098fe/0f0fe046d1c04da581ba7a93b718fc48.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416553,
+          52.52294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "A-Trane",
+        "Haltestelle": "Ernst-Reuter-Platz",
+        "SUBahn": "U2",
+        "Genre": "Jazz/Swing",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#be41f4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/A-Trane_Berlin_Eingang.jpg/1200px-A-Trane_Berlin_Eingang.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.320124,
+          52.507554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Quasimodo",
+        "Haltestelle": "Zoologischer Garten",
+        "SUBahn": "U2/U9",
+        "Genre": "Jazz/Swing",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#be41f4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"http://4.bp.blogspot.com/-0ZmFBo-qQ90/UXE31_lpScI/AAAAAAAAFOQ/eBs8JXWVArc/s1600/Schwarzkaffee+%2540+Quasimodo+Berlin+-+Tour+de+Funk+2013+%25281%2529.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.328527,
+          52.506191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "://about blank",
+        "Haltestelle": "Ostkreuz",
+        "SUBahn": "S41/S42",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://www.residentadvisor.net/images/clubs/lg/de-about-blank-berlin.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466377,
+          52.502522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chalet",
+        "Haltestelle": "Treptower Park",
+        "SUBahn": "S41/S42",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://www.60by80.com/images/stories/berlin/nightlife/perch/resources/berlinnigchalet06.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449426,
+          52.497151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Golden Gate",
+        "Haltestelle": "Jannowitzbrücke",
+        "SUBahn": "U8/S5/S7/S75",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://www.theclubmap.com/wp-content/uploads/2012/12/Golden-Gate-Club-front-berlin.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416784,
+          52.516089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Salon zur Wilden Renate",
+        "Haltestelle": "Treptower Park",
+        "SUBahn": "S41/S42",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"http://cdn-image.travelandleisure.com/sites/default/files/styles/marquee_large_2x/public/1445537646/BERLIN1015-berghain.jpg?itok=KTFm6qKA","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.465196,
+          52.497616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Suicide Circus",
+        "Haltestelle": "Warschauer Str.",
+        "SUBahn": "U1/S5/S7/S75",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://lh5.googleusercontent.com/p/AF1QipPhnN1BJGB8kbVS0XPB5XtWmjatTkHwVIcDy3Ej=w310-h336-p-k-no","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451025,
+          52.507351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "House of Weekend",
+        "Haltestelle": "Alexanderplatz",
+        "SUBahn": "U2/U5/U8",
+        "Genre": "House/R&B/Hip-Hop",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#42f442",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images":[{"format":"Image","url":"https://res.cloudinary.com/pearlshare/image/upload/v1497974193/xlax9xfkgshgtpflmjqs.jpg","description":""}]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416719,
+          52.522969
+        ]
+      }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+        "title": "Watergate",
+        "Haltestelle": "Schlesisches Tor",
+        "SUBahn": "U1",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour": "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "medium",
+        "marker-symbol": "ice-cream",
+        "images": [
+            {
+                "format": "Image",
+                "url": "http://berlin-enjoy.com/wp-content/uploads/2013/10/mainfloor-dj-Watergate-640x349.jpg",
+                "description": ""
+            },
+            {
+                "format": "Image",
+                "url": "http://berlin-enjoy.com/wp-content/uploads/2013/10/sven-vaeth066-Watergate.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.445216,
+            52.501193
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "properties": {
+        "title": "Berghain",
+        "Haltestelle": "Ostbahnhof",
+        "SUBahn": "S5/S7/S75",
+        "Genre": "Techno/Electronic",
+        "Open/Closed": "open",
+        "original location": "unkown",
+        "tour" : "Berlin Clubs",
+        "series": "Spring 2018",
+        "marker-color": "#f63ef4",
+        "marker-size": "small",
+        "marker-symbol": "ice-cream",
+        "images": [
+            {
+                "format": "Image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Berghain_in_October_2014.jpg/1200px-Berghain_in_October_2014.jpg",
+                "description": ""
+            },
+            {
+                "format": "Image",
+                "url": "https://www.residentadvisor.net/images/news/2015/de-popkultur-berghain.jpg",
+                "description": ""
+            }
+        ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.442932,
+            52.511171
+        ]
+    }
+}
   ]
 }
